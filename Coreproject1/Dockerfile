@@ -2,7 +2,7 @@ FROM microsoft/aspnetcore-build:2.0 AS build-env
 WORKDIR /app
 
 # copy csproj and restore as distinct layers
-COPY Coreproject1.csproj ./
+COPY *.csproj ./
 RUN dotnet restore
 
 # copy everything else and build
