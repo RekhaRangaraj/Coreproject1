@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  coreproject1:
+    image: coreproject1
+    build:
+      context: ./Coreproject1
+      dockerfile: Dockerfile

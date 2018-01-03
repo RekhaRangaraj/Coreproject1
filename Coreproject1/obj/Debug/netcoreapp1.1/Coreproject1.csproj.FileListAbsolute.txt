@@ -1,0 +1,9 @@
+C:\Users\Rinsoft-42\documents\visual studio 2017\Projects\Coreproject1\Coreproject1\bin\Debug\netcoreapp1.1\Coreproject1.deps.json
+C:\Users\Rinsoft-42\documents\visual studio 2017\Projects\Coreproject1\Coreproject1\bin\Debug\netcoreapp1.1\Coreproject1.runtimeconfig.json
+C:\Users\Rinsoft-42\documents\visual studio 2017\Projects\Coreproject1\Coreproject1\bin\Debug\netcoreapp1.1\Coreproject1.runtimeconfig.dev.json
+C:\Users\Rinsoft-42\documents\visual studio 2017\Projects\Coreproject1\Coreproject1\bin\Debug\netcoreapp1.1\Coreproject1.dll
+C:\Users\Rinsoft-42\documents\visual studio 2017\Projects\Coreproject1\Coreproject1\bin\Debug\netcoreapp1.1\Coreproject1.pdb
+C:\Users\Rinsoft-42\documents\visual studio 2017\Projects\Coreproject1\Coreproject1\obj\Debug\netcoreapp1.1\Coreproject1.csprojResolveAssemblyReference.cache
+C:\Users\Rinsoft-42\documents\visual studio 2017\Projects\Coreproject1\Coreproject1\obj\Debug\netcoreapp1.1\Coreproject1.AssemblyInfo.cs
+C:\Users\Rinsoft-42\documents\visual studio 2017\Projects\Coreproject1\Coreproject1\obj\Debug\netcoreapp1.1\Coreproject1.dll
+C:\Users\Rinsoft-42\documents\visual studio 2017\Projects\Coreproject1\Coreproject1\obj\Debug\netcoreapp1.1\Coreproject1.pdb
